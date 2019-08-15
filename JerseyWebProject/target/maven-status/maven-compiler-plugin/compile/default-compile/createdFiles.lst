@@ -1,0 +1,4 @@
+com\venkatesh\jaxrs\model\Person.class
+com\venkatesh\jaxrs\model\Response.class
+com\venkatesh\jaxrs\service\PersonService.class
+com\venkatesh\jaxrs\service\PersonImpl.class
